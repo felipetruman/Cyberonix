@@ -1,5 +1,5 @@
 beautifulsoup4
-dnspython==2.3.0
+dnspython==2.9.0
 ipwhois
 requests
 selenium
